@@ -1,6 +1,6 @@
-token= Â‰« Õÿ «· Êﬂ‰ Ì·« Ì „ ‰«ﬂ
-owner=Â‰« «ÌœÌ ﬂ”„ﬂ Ì »‰ Õ«“„ «·⁄—’
-prefix=œÂ «·»—›ﬂ” («·«„—) 
+token= NTMwNjQxMDc5NDAyNDk2MDAw.DxCWJQ.PBvfvtpaQlNAVQXQuaTLBwAu4RE
+owner=433198762706599936
+prefix=m
 game= HAWADET SERVER
 stayinchannel=true
 songinstatus=true 
