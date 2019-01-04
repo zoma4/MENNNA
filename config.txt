@@ -1,0 +1,6 @@
+token= åäÇ ÍØ ÇáÊæßä íáÇ í ãÊäÇß
+owner=åäÇ ÇíÏí ßÓãß í Èä ÍÇÒã ÇáÚÑÕ
+prefix=Ïå ÇáÈÑİßÓ (ÇáÇãÑ) 
+game= HAWADET SERVER
+stayinchannel=true
+songinstatus=true 
