@@ -1,6 +1,6 @@
-token= NTMxNTIxMzIxMzQ4MTA0MTkz.DxPJ6Q.UPxJsnHu2ZWpob59JqydXjBg59c
+token=NTM3NjcwMjQzNzQ5ODU1MjMy.DyooCw.CIJc5PNXEZyrLxZZiPlqqVmJziM
 owner=433198762706599936
-prefix=n
-game= HAWADET SERVER
+prefix=f
+game= KFC bot..
 stayinchannel=true
 songinstatus=true 
