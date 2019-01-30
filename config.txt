@@ -1,6 +1,6 @@
-token=NTM3NjcwMjQzNzQ5ODU1MjMy.DyooCw.CIJc5PNXEZyrLxZZiPlqqVmJziM
-owner=433198762706599936
-prefix=f
-game= KFC bot..
+token=NTQwMzAzNTEyODAyODIwMTI3.DzO8Xw.u5SlO4RMhvODB0qhUbD-rdMUNpo
+owner=450651811393830912
+prefix=b
+game= BokharesT Is Here
 stayinchannel=true
 songinstatus=true 
